@@ -1,1 +1,2 @@
-#!/biin/bash
+#!/bin/bash
+rm *~
